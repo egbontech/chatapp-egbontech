@@ -24,4 +24,4 @@ This project demonstrates a fullstack messaging app with live updates, authentic
 - **Frontend:** Next.js, React, TypeScript, Zustand, Tailwind CSS  
 - **Backend:** Next.js API Routes, Prisma, MongoDB  
 - **Realtime:** Pusher  
-- **Styling:** Tailwind CSS + Headless UI (optional if used)  
+- **Styling:** Tailwind CSS
