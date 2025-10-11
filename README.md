@@ -25,3 +25,9 @@ This project demonstrates a fullstack messaging app with live updates, authentic
 - **Backend:** Next.js API Routes, Prisma, MongoDB  
 - **Realtime:** Pusher  
 - **Styling:** Tailwind CSS
+
+---
+
+## 🎥 Tutorial  
+Watch the full tutorial on YouTube here:  
+👉 [YouTube Tutorial](https://youtu.be/S2JbhobvswQ)  
